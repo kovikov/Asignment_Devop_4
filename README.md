@@ -37,16 +37,19 @@ This project showcases a production-ready multi-container Docker setup featuring
 ## 📸 Screenshots
 
 ### Application Dashboard
-![Docker Multi-Container Application](./screenshots/dashboard.png)
+![Docker Multi-Container Application](sample/screenshots/image1.png)
 
 ### Database Status
-![Database Service Status - Connected](./screenshots/database-status.png)
+![Database Service Status - Connected](sample/screenshots/image2.png)
 
 ### Cache Status
-![Cache Service Status - Connected](./screenshots/cache-status.png)
+![Cache Service Status - Connected](sample/screenshots/image3.png)
+
+### Cache Status Detail
+![Cache Service Status Detail](sample/screenshots/image4.png)
 
 ### Page Views Counter
-![Page Views Counter](./screenshots/page-views.png)
+![Page Views Counter](sample/screenshots/image5.png)
 
 ## 🛠️ Prerequisites
 
