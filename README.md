@@ -1,5 +1,7 @@
 # Docker Multi-Container Application
 
+
+
 A complete demonstration of a multi-container Docker architecture with Flask, MySQL, and Redis services.
 
 ## 🚀 Overview
